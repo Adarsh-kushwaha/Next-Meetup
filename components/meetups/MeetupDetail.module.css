@@ -1,0 +1,10 @@
+.detailPage{
+    max-width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.detailPage img{
+    width: 500px;
+    object-fit: cover;
+}
